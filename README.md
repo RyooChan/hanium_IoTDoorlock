@@ -36,7 +36,5 @@
 ![image](https://user-images.githubusercontent.com/53744363/147824805-297e0b09-309f-4752-93e6-e2b46f2af05d.png)
 
 
-## 관련 영상
-* Youtube
-    * 프로젝트 핵심 기술 영상
-        * https://www.youtube.com/watch?v=xUZOBd9ptsc
+## 특허 출원번호
+- 1020200175886(2020.12.15)
